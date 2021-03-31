@@ -1,4 +1,5 @@
-# AC3TAKAI
+# AC3 Estrutura de Dados
+
 ## Nomes
 - Glauco dos Santos Almeida RA:1903734
 - Fabio Kallany Silva Santos RA: 1903056
